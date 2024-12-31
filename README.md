@@ -1,19 +1,19 @@
 # Hi there, I'm 3amson3902! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a newbie developer who loves robot and tech, learning new technologies, and contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, JavaScript, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, AWS, Heroku, VS Code
+- **Frameworks & Libraries:** Still Learning
+- **Databases:** Still Learning
+- **Tools & Platforms:** Git, Docker, VS Code
 
 ## 🌱 Currently Learning
 
-- TypeScript
-- Kubernetes
-- Machine Learning with TensorFlow & PyTorch
+- MAE
+- Life
+- Cooking
 
 ## 📈 GitHub Stats
 
